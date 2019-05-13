@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686051360513",
+    "firebase_url": "https://myfitness-36422.firebaseio.com",
+    "project_id": "myfitness-36422",
+    "storage_bucket": "myfitness-36422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686051360513:android:0e023777a836aef4",
+        "android_client_info": {
+          "package_name": "com.shail.app.myfitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686051360513-cps26e97999e190sqp02mvkf69qufk9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMwFlLn8nNmTmznFjThSXl6cOY269aRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686051360513-cps26e97999e190sqp02mvkf69qufk9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
