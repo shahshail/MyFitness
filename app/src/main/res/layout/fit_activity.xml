@@ -16,10 +16,9 @@
   ~
   -->
 
-<resources>
-    <color name="colorPrimary">#5382E8</color>
-    <color name="colorPrimaryDark">#2B4479</color>
-    <color name="colorAccent">#EAA51D</color>
-
-    <color name="ic_launcher_background">#81D4FA</color>
-</resources>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fitActivityContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FitMainActivity" />
